@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Stacks\AP_Stacks\bin\Debug\AP_Stacks.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Stacks\AP_Stacks\bin\Debug\AP_Stacks.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Stacks\AP_Stacks\bin\Debug\AP_Stacks.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Stacks\AP_Stacks\obj\Debug\AP_Stacks.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Stacks\AP_Stacks\obj\Debug\AP_Stacks.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Stacks\AP_Stacks\obj\Debug\AP_Stacks.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Stacks\AP_Stacks\obj\Debug\AP_Stacks.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Stacks\AP_Stacks\obj\Debug\AP_Stacks.pdb
